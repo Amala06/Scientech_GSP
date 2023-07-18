@@ -1,0 +1,4 @@
+#Sat Jul 01 15:18:40 IST 2023
+base.0=C\:\\Users\\amala\\OneDrive\\Desktop\\Trial Flutter\\my_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
